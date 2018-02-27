@@ -34,7 +34,7 @@
     },
     "path": "@PROJECT_PATH@",
     "siteUrl": "https://brose58.github.io/amp.html",
-    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcherAuto": "",
     "favicon": "@PROJECT_PATH@/assets/images/favicon2-16x16.png",
     "noImageResize": "",
     "google-analytics": "",
