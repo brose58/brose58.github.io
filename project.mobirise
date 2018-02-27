@@ -150,7 +150,7 @@
           },
           "title": "IS Your Website AMP READY? TEST HERE",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TEST IT HERE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://search.google.com/test/amp\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEST IT HERE</a>",
           "_tags": [
             "Theme"
           ],
