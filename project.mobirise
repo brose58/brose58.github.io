@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-02-26_1257",
+    "name": "Amp",
     "currentPage": "AMP.html",
     "theme": {
       "name": "default",
@@ -11,6 +11,12 @@
       ]
     },
     "path": "@PROJECT_PATH@",
+    "siteUrl": "http://www.acm12.com",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "sitemapSwitcher": "on",
     "versionFirst": "4.6.5",
     "uniqCompNum": 11,
     "versionPublish": "4.6.5"
