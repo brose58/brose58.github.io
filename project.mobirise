@@ -33,11 +33,14 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "siteUrl": "",
+    "siteUrl": "https://brose58.github.io/amp.html",
     "sitemapSwitcherAuto": "on",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon2-16x16.png",
     "noImageResize": "",
     "google-analytics": "",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcher": "on",
     "versionFirst": "4.6.5",
     "uniqCompNum": 12,
     "versionPublish": "4.6.5"
@@ -46,8 +49,8 @@
     "amp.html": {
       "settings": {
         "main": true,
-        "title": "ACM ",
-        "meta_descr": "",
+        "title": "Always Connected Marketing",
+        "meta_descr": "Mobile web traffic overtook desktop one in 2016 and will \nonly grow in 2018, and that's why it's important to create \nsites that look good on all devices, \nWe make your Website mobile-friendly.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
