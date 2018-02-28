@@ -37,7 +37,7 @@
     "sitemapSwitcherAuto": "",
     "favicon": "@PROJECT_PATH@/assets/images/favicon2-16x16.png",
     "noImageResize": "",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-88754949-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-88754949-1');\r\n</script>\r\n",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-52895637-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-52895637-1');\r\n</script>\r\n",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
     "sitemapSwitcher": "on",
